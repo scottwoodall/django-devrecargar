@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="devrecargar",
-    version="0.1.2",
+    version="0.1.3",
     url="https://github.com/scottwoodall/django-devrecargar",
     author="Scott Woodall",
     author_email="scott.woodall@gmail.com",
