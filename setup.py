@@ -12,7 +12,7 @@ setuptools.setup(
         (py, html, js, css) changes.
     """,
 
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
     packages=setuptools.find_packages(),
     license="MIT",
 
