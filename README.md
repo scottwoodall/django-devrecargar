@@ -15,7 +15,7 @@ This project aims to make you more productive by keeping you in the text editor 
 
 ### Installation ###
     
-    pip install django-devrecargar
+    pip install devrecargar
 
 ### Usage ###
 1. Add `devrecargar` to `INSTALLED_APPS` in `settings.py`
