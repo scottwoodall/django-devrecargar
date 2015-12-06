@@ -14,6 +14,7 @@ setuptools.setup(
 
     long_description=open('README.rst').read(),
     packages=setuptools.find_packages(),
+    license="MIT",
 
     install_requires=['watchdog'],
 
