@@ -14,14 +14,15 @@ This project aims to make you more productive by keeping you in the text editor 
 1. Easier for remote workflows where you are SSH'ed into a development server making changes but viewing the site with a browser on your local PC.
 
 ### Installation ###
-`pip install django-devrecargar`
+    
+    pip install django-devrecargar
 
 ### Usage ###
 1. Add `devrecargar` to `INSTALLED_APPS` in `settings.py`
-1. Add an entry to your `urls.py`:
+1. Add an entry to `urls.py`:
 
         url(r'^devrecargar/', include('devrecargar.urls', namespace='devrecargar'))
-1. Add a javascript snippet to your base template:
+1. Add a javascript snippet to a base template:
 
          <script>{% include "devrecargar/devrecargar.js" %}</script>
 
