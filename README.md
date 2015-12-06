@@ -38,7 +38,7 @@ After modifying a python file the devserver restarts automatically.  To get CSS,
             )
         )
     
-### Why devrecargar over others solutions?
+### Why devrecargar over other solutions?
 1. Python only
 1. No browser plugins
 1. Easier for remote workflows where you are SSH'ed into a development server making changes but viewing the site with a browser on your local PC.
