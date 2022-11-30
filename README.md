@@ -2,7 +2,7 @@
 During the development of a Django application, do you get tired of:
 
 1. Making a change to source code
-1. Alt-tab to your browser
+1. Alt tab to your browser
 1. Refresh
 1. Rinse and repeat
 
